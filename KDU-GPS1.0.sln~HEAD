@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDU-GPS1.0", "KDU-GPS1.0.csproj", "{EF80F9E8-DF38-0EE8-7312-3B84E48EDCE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF80F9E8-DF38-0EE8-7312-3B84E48EDCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF80F9E8-DF38-0EE8-7312-3B84E48EDCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF80F9E8-DF38-0EE8-7312-3B84E48EDCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF80F9E8-DF38-0EE8-7312-3B84E48EDCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: c7d507aeca14b764c97cfc650ab1d096
+timeCreated: 1520000239
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tempura idle spritesheet_0
+    21300002: tempura idle spritesheet_1
+    21300004: tempura idle spritesheet_2
+    21300006: tempura idle spritesheet_3
+    21300008: tempura idle spritesheet_4
+    21300010: tempura idle spritesheet_5
+    21300012: tempura idle spritesheet_6
+    21300014: tempura idle spritesheet_7
+    21300016: tempura idle spritesheet_8
+    21300018: tempura idle spritesheet_9
+    21300020: tempura idle spritesheet_10
+    21300022: tempura idle spritesheet_11
+    21300024: tempura idle spritesheet_12
+    21300026: tempura idle spritesheet_13
+    21300028: tempura idle spritesheet_14
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tempura idle spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 320
+        width: 73
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 320
+        width: 73
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 320
+        width: 73
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 320
+        width: 73
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 320
+        width: 73
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 160
+        width: 73
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 73
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 73
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 160
+        width: 73
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 160
+        width: 73
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 73
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 73
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 73
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 73
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura idle spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 73
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

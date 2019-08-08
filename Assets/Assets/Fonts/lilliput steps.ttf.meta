@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 173ef7276edb87c4fa35148be6a1bd31
+timeCreated: 1518186889
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lilliput Steps
+  fontNames:
+  - Lilliput Steps
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

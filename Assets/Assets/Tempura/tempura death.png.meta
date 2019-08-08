@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: c29ba5ce716343048884451602467e50
+timeCreated: 1520084251
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tempura death_0
+    21300002: tempura death_1
+    21300004: tempura death_2
+    21300006: tempura death_3
+    21300008: tempura death_4
+    21300010: tempura death_5
+    21300012: tempura death_6
+    21300014: tempura death_7
+    21300016: tempura death_7
+    21300018: tempura death_9
+    21300020: tempura death_10
+    21300022: tempura death_11
+    21300024: tempura death_12
+    21300026: tempura death_13
+    21300028: tempura death_14
+    21300030: tempura death_8
+    21300032: tempura death_16
+    21300034: tempura death_15
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tempura death_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 827
+        width: 79
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 827
+        width: 79
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_2
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 827
+        width: 82
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_3
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 827
+        width: 124
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 630
+        width: 132
+        height: 160
+      alignment: 9
+      pivot: {x: 0.46, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 614
+        width: 164
+        height: 176
+      alignment: 9
+      pivot: {x: 0.46, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_6
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 605
+        width: 179
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_7
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 599
+        width: 192
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 397
+        width: 198
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_9
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 445
+        width: 69
+        height: 146
+      alignment: 9
+      pivot: {x: 0.48, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 443
+        width: 69
+        height: 146
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 436
+        width: 69
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 226
+        width: 69
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 227
+        width: 67
+        height: 148
+      alignment: 9
+      pivot: {x: 0.56, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_14
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 232
+        width: 83
+        height: 143
+      alignment: 9
+      pivot: {x: 0.7, y: -0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_15
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 234
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.95, y: -0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tempura death_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 24
+        width: 146
+        height: 71
+      alignment: 9
+      pivot: {x: 1.08, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

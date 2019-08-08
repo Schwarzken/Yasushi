@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TempuraAI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\InteractableObject.cs" Line="53" Column="12" />
+      <File FileName="Assets\Scripts\TempuraAI.cs" Line="112" Column="10" />
+      <File FileName="Assets\Scripts\PlayerSkill.cs" Line="92" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

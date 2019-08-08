@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 894743b87cd12c84085bcce15fd571ad
+timeCreated: 1521400234
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yasushi death_new_0
+    21300002: yasushi death_new_1
+    21300004: yasushi death_new_2
+    21300006: yasushi death_new_3
+    21300008: yasushi death_new_4
+    21300010: yasushi death_new_5
+    21300012: yasushi death_new_6
+    21300014: yasushi death_new_9
+    21300016: yasushi death_new_10
+    21300018: yasushi death_new_11
+    21300020: yasushi death_new_12
+    21300022: yasushi death_new_13
+    21300024: yasushi death_new_7
+    21300026: yasushi death_new_8
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yasushi death_new_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 771
+        width: 77
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 771
+        width: 77
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 771
+        width: 93
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 771
+        width: 149
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 531
+        width: 159
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14048181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 510
+        width: 198
+        height: 189
+      alignment: 9
+      pivot: {x: 0.4774378, y: 0.16545662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_6
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 499
+        width: 216
+        height: 216
+      alignment: 9
+      pivot: {x: 0.52068186, y: 0.258526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 283
+        width: 62
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 288
+        width: 83
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_11
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 287
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.24384609, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 41
+        width: 124
+        height: 88
+      alignment: 9
+      pivot: {x: 0.17575873, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 39
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.027494226, y: 0.01861318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 495
+        width: 250
+        height: 236
+      alignment: 9
+      pivot: {x: 0.51340234, y: 0.24445356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi death_new_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 248
+        height: 263
+      alignment: 9
+      pivot: {x: 0.49549678, y: 0.26219532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

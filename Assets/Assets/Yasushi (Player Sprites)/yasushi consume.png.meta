@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 47ac77ff9c7a3444289cb70c5dd531e6
+timeCreated: 1519970371
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yasushi consume_0
+    21300002: yasushi consume_1
+    21300004: yasushi consume_2
+    21300006: yasushi consume_3
+    21300008: yasushi consume_4
+    21300010: yasushi consume_5
+    21300012: yasushi consume_6
+    21300014: yasushi consume_7
+    21300016: yasushi consume_8
+    21300018: yasushi consume_9
+    21300020: yasushi consume_10
+    21300022: yasushi consume_11
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yasushi consume_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 267
+        width: 47
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi consume_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 268
+        width: 58
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi consume_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 267
+        width: 77
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi consume_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 268
+        width: 80
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi consume_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 79
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6663428, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi consume_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi consume_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 135
+        width: 78
+        height: 100
+      alignment: 9
+      pivot: {x: 0.58714235, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi consume_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 134
+        width: 72
+        height: 100
+      alignment: 9
+      pivot: {x: 0.6258721, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi consume_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 134
+        width: 69
+        height: 93
+      alignment: 9
+      pivot: {x: 0.67074853, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi consume_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 72
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6258723, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi consume_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3
+        width: 70
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6165218, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yasushi consume_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3
+        width: 62
+        height: 116
+      alignment: 9
+      pivot: {x: 0.65348274, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

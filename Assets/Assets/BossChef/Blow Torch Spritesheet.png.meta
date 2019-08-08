@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: a341bcd8a1711934c8c75f961f7a2217
+timeCreated: 1521387772
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blow Torch Spritesheet_0
+    21300002: Blow Torch Spritesheet_1
+    21300004: Blow Torch Spritesheet_2
+    21300006: Blow Torch Spritesheet_3
+    21300008: Blow Torch Spritesheet_4
+    21300010: Blow Torch Spritesheet_5
+    21300012: Blow Torch Spritesheet_6
+    21300014: Blow Torch Spritesheet_7
+    21300016: Blow Torch Spritesheet_8
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blow Torch Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1305
+        width: 636
+        height: 654
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blow Torch Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1307
+        width: 767
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61281395, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blow Torch Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 1306
+        width: 798
+        height: 653
+      alignment: 9
+      pivot: {x: 0.637647, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blow Torch Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 654
+        width: 782
+        height: 640
+      alignment: 9
+      pivot: {x: 0.6203969, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blow Torch Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 655
+        width: 774
+        height: 648
+      alignment: 9
+      pivot: {x: 0.62790984, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blow Torch Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 655
+        width: 973
+        height: 639
+      alignment: 9
+      pivot: {x: 0.706967, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blow Torch Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 1177
+        height: 648
+      alignment: 9
+      pivot: {x: 0.7571204, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blow Torch Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 1178
+        height: 644
+      alignment: 9
+      pivot: {x: 0.75594705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blow Torch Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 0
+        width: 1176
+        height: 645
+      alignment: 9
+      pivot: {x: 0.7602091, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
